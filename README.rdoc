@@ -1,1 +1,1 @@
-This is repository for my first application I'm calling aplha-blog
+This is the repository for my first application I'm calling aplha-blog
